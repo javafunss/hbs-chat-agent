@@ -1,0 +1,1 @@
+[{'class': 'ResampleNProcessor', 'module_path': 'features_resample_N.py', 'kwargs': {'target_frq': '1d'}}]

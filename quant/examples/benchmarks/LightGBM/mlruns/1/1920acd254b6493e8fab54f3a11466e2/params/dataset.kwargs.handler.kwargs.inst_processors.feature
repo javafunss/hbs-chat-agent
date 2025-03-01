@@ -1,0 +1,1 @@
+[{'class': 'Resample1minProcessor', 'module_path': 'features_sample.py', 'kwargs': {'hour': 14, 'minute': 56}}]

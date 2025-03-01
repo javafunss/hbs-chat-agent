@@ -1,0 +1,10 @@
+On branch modify
+Your branch is up to date with 'origin/modify'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   ../LSTM/workflow_config_lstm_Alpha158.yaml
+	modified:   workflow_config_lightgbm_multi_freq.yaml
+
+no changes added to commit (use "git add" and/or "git commit -a")

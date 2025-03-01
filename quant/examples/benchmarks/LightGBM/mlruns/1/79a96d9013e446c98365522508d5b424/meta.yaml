@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/admin/projects/quant/qlib/my_examples/workflow/benchmarks/LightGBM/mlruns/1/79a96d9013e446c98365522508d5b424/artifacts
+end_time: 1732712922025
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 79a96d9013e446c98365522508d5b424
+run_name: mlflow_recorder
+run_uuid: 79a96d9013e446c98365522508d5b424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732712742101
+status: 4
+tags: []
+user_id: admin

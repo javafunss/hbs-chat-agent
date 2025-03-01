@@ -1,0 +1,6 @@
+artifact_location: file:///Users/admin/projects/quant/qlib/my_examples/workflow/benchmarks/LightGBM/mlruns/1
+creation_time: 1732710494330
+experiment_id: '1'
+last_update_time: 1732710494330
+lifecycle_stage: active
+name: workflow
